@@ -1,4 +1,4 @@
-# EdilsonBitencourt
+# Edilson Bitencourt
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
 
@@ -6,22 +6,16 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Dependências
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Para este teste não usei nenhuma biblioteca externa.
 
-## Build
+## Design
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Deixei o visual o mais simples possível pois creio que não seja o foco do teste.
 
-## Running unit tests
+## Feedback
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Gostei! A proposta de não especificar como fazer é interessante pois cada desenvolvedor acaba achando caminhos diferentes para o resolver o mesmo problema. Devido ao tempo não consegui executar o bonus para adicionar produtos a lista, mas provavelmente eu usaria o localStore do navegador para uma manipulação em tempo de execução. 
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Grato pelo oportunidade!
