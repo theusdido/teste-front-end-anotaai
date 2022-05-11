@@ -1,0 +1,6 @@
+<ul class="list">
+    <li class="title">Categorias</li>
+    <li *ngFor="let c of categorys;let i = index;">
+        <a href="category/{{ i }}">{{ c.category_title }}</a>
+    </li>
+</ul>

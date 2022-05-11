@@ -1,0 +1,9 @@
+<ul class="list">
+    <li class="title">Produtos</li>
+    <li *ngFor="let p of product_list" (click)="productDetail(p);false;">
+        <a href="#">
+            {{ p.description }}
+        </a>
+        <img src="{{ p.thumbnail }}" />
+    </li>
+</ul>
